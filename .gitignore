@@ -2,3 +2,4 @@ data/
 embeddings.npy
 venv/
 __pycache__/
+faiss.index
