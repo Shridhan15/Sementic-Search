@@ -11,7 +11,7 @@ class SemanticCache:
     Semantic similarity using cosine similarity
     """
 
-    def __init__(self, threshold=0.85):
+    def __init__(self, threshold=0.80):
         """
         threshold: minimum cosine similarity required
         to consider two queries semantically the same.

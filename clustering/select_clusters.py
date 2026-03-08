@@ -14,7 +14,8 @@ OUTPUT_DIR = "outputs"
 Try out different  cluster counts(k) to evaluate
 Instead of assuming 20 clusters,
 we test multiple values to discover the real semantic structure.
-# """
+ """
+
 Ks = [5, 10, 15, 16, 18, 20, 22, 23, 25,27, 30]  
 
 def run_analysis():
